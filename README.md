@@ -31,31 +31,31 @@ The dataset has also been label encoded for easier analysis.
 - Disease
 Diseases with counts greater than 10 are Asthma, Hypertension, Diabetes, Migraine, Osteoporosis and Stroke. Asthma appears to be the most common disease representing 27.7% of the total patients in the filtered dataset.
 
-- Fever
+- Fever: 
 62.7% of the patients in this updated dataset have a fever. 
 
-- Cough
+- Cough: 
 51.8% of the patients presented with a cough. 
 
-- Fatigue
+- Fatigue: 
 57.8% of the patients have fatigue. 
 
-- Difficulty breathing
+- Difficulty breathing: 
 66.3% of the patients have difficulty breathing.
 
-- Gender
+- Gender: 
 There is an even distribution of males and females.
 
-- Blood pressure
+- Blood pressure: 
 50.6% of the patients have normal blood pressure, 43.3% have high blood pressure and 6% have low blood pressure.
 
-- Cholesterol level
+- Cholesterol level: 
 44.6% of the patients have normal cholesterol level, 43.4% have high cholesterol level and 12% have low cholesterol level.
 
-- Outcome variable
+- Outcome variable: 
 61.4% of the patients have positive outcomes and 38.6% have negative outcomes for the disease they were tested for.
 
-- Age
+- Age: 
 ![alt text](image-1.png)
 Age distribution of the data seems uniform with a slight skew towards the younger age group. The range of ages in this dataset are between 15-74.
 
